@@ -1,0 +1,15 @@
+.text{
+    background-color: lime;
+}
+.omg{
+    background-color: orange;
+}
+table, th, td {
+    border:1px solid black;
+  }
+  tr{
+    background-color: red;
+  }
+  .nadpis{
+    text-align: center;
+  }
